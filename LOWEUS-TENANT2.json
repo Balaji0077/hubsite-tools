@@ -1,0 +1,8 @@
+{
+    "id": "LOWEUS-TENANT2",
+  "prod-mcs":{
+      "server_name":"joinlowes.com",
+      "under_maintenance": false,
+      "rules_file":"LOWEUS-TENANT2.conf"
+    }
+  }
